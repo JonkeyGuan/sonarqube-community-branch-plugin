@@ -1,7 +1,7 @@
 name: build
 
 on:
-  push：
+  push:
     tags:
       - '*'
     branches:
